@@ -1,3 +1,2 @@
-
-resource_group_name = "RG-IT-SANDBOX-002-GITHUB-001"
-location            = "East US 2"
+resource_group_name = "github_group_12212226"
+location            = "West US"

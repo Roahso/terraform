@@ -10,11 +10,11 @@ terraform {
 provider "azurerm" {
   features {}
   use_msi = true
-  tenant_id = "6dd8b6a1-6749-4de3-a27e-3fd3484c6da7"
+  tenant_id = "5c1d6b91-375b-405c-9202-c560e8e34045"
 }
 
 data "azurerm_resource_group" "sandbox_rg" {
-  name = "RG-IT-SANDBOX-002-GITHUB-001"
+  name = "github_group_12212226"
 }
 
 

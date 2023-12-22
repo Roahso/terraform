@@ -1,8 +1,8 @@
 variable "resource_group_name" {
     description = "Resource Group Name"
-    default     = "RG-IT-SANDBOX-002-GITHUB-001"
+    default     = "github_group_12212226"
 }
 variable "location" {
     description = "Azure Region Location" 
-    default     = "East US 2"
+    default     = "West US"
 }
